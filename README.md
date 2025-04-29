@@ -14,18 +14,6 @@
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tusharmagar/">
-    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="https://x.com/tusharmagar">
-    <img alt="Follow on X" src="https://img.shields.io/badge/@tusharmagar-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## Tech & Tools
 
