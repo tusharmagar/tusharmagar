@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tusharmagar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/tusharmagar">
-    <img src="https://img.shields.io/badge/X-@tusharmagar-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X.com"/>
+  &nbsp;&nbsp;&nbsp; <a href="https://x.com/tusharmagar">
+    <img alt="Follow on X" src="https://img.shields.io/badge/@tusharmagar-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
