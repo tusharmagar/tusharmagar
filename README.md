@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Tushar Magar</h1>
   <p><em>AI Engineer & Entrepreneur</em></p>
-  <p>Building elegant automations & sleek SaaS</p>
+  <p>I do what I love and I love what I do</p>
   <p>
     <img src="https://img.shields.io/badge/👨‍💼-Startup%20Founder-FFB6C1?style=for-the-badge" alt="Startup Founder"/>
     <img src="https://img.shields.io/badge/🥇-1st%20Place%20IBM%20TechXchange%20Hackathon%202024-C3B1E1?style=for-the-badge&logo=ibm&logoColor=white" alt="1st Place IBM Hackathon"/>
@@ -34,8 +34,4 @@
   <img src="https://img.shields.io/badge/Google%20Business%20API-4285F4?style=for-the-badge&logo=googlebusiness&logoColor=white" alt="Google Business API"/>
 </p>
 
----
 
-> “Elegance is not about being noticed, it’s about being remembered.”  
-
-<div align="right">✨</div>
