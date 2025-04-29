@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/🚀-Founders%20Inc%20ColdStart-FFB347?style=for-the-badge" alt="Founders Inc ColdStart"/>
     <img src="https://img.shields.io/badge/🎯-Top%207%25%20Applicants%20to%20WTFund-355C7D?style=for-the-badge&logo=WTFund&logoColor=white" alt="Top 7% WTFund"/>
     <img src="https://img.shields.io/badge/🎖️-Top%205%25%20India%20Adecco%20CEO%20for%20a%20Month-FDFD96?style=for-the-badge" alt="Top 5% Adecco India"/>
-    <img src="https://img.shields.io/badge/🤝-Microsoft%20for%20Startups-737373?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft for Startups"/>
+    <img src="https://img.shields.io/badge/🤝-Microsoft%20for%20Startups-AEC6CF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft for Startups"/>
   </p>
 </div>
 
